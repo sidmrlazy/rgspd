@@ -1,7 +1,7 @@
-<div class="bg-img container-fluid ">
+<div class="container-fluid" id="homebackground"> 
     <div class="container-fluid w-100 h-100 linear">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container">
+            <div class="container"> 
                 <a class="navbar-brand" href="#">
                     <img src="assets/logo/logo-2.png" alt="" class="logo">
                 </a>
@@ -12,8 +12,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="index.php">HOME</a>
+                        <li class="nav-item" >
+                            <a class="nav-link active" href="index.php" id="home" home="home">HOME</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="about.php">ABOUT US</a>
