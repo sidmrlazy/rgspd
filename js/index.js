@@ -1,14 +1,17 @@
 $(document).ready(function () {
-  var url = window.location.href;
-  if (url == "http://localhost/gizmmo/rgspd/index.php") {
+  var fullurl = window.location.href;
+  var url = fullurl.split("/").reverse()[0];
+  if (url == "index.php") {
     $("#homebackground").addClass("bg-img-about");
-  } else if (url == "http://localhost/gizmmo/rgspd/about.php") {
+  } else if (url == "about.php") {
     $("#homebackground").addClass("bg-img");
-  } else if (url == "http://localhost/gizmmo/rgspd/publication.php") {
+  } else if (url == "publication.php") {
     $("#homebackground").addClass("bg-img-publication");
-  } else if (url == "http://localhost/gizmmo/rgspd/publication.php#") {
+  } else if (url == "publication.php#") {
     $("#homebackground").addClass("bg-img-publication");
-  } else if (url == "http://localhost/gizmmo/rgspd/contact.php") {
+  } else if (url == "contact.php") {
+    $("#homebackground").addClass("bg-img-contact");
+  } else if (url == "rgspd/") {
     $("#homebackground").addClass("bg-img-contact");
   }
 });
