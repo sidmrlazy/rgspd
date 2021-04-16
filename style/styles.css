@@ -16,6 +16,49 @@ body {
   background-size: cover;
   padding: 0;
 }
+
+.bg-img-about {
+  background-image: url("../assets/background/about-one.jpg");
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
+.bg-img-publication {
+  background-image: url("../assets/background/background-2.jpeg");
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
+.bg-img-contact {
+  background-image: url("../assets/background/card-one.jpg");
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
 .linear {
   background: linear-gradient(180deg, rgba(15, 14, 21, 0.5) 0, #0f0e15 100%);
   width: 100%;
