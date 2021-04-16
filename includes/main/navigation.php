@@ -21,11 +21,11 @@
                         <li class="nav-item">
                             <a class="nav-link" href="publication.php">PUBLICATIONS</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="#">PUBLISH WITH US</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.php">CONTACT US</a>
+                            <a class="nav-link" href="contact.php">PUBLISH WITH US</a>
                         </li>
                         <li class="nav-item d-flex justify-content-center align-items-center social-media">
                             <img src="assets/icons/facebook.png" alt="" class="social-media-icons">

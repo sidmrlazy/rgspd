@@ -14,7 +14,6 @@
             </div>
 
 
-
             <div class="col-md-4 col-sm-4 d-flex justify-content-center align-items-center mt-3">
                 <div class="bg-two">
                     <div class="card-gradient">
