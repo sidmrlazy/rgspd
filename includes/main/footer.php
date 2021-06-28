@@ -2,7 +2,7 @@
     <div class="container-fluid mt-5">
         <div class="col-md-12">
             <div class="row">
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <ul>
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About us</a></li>
@@ -10,15 +10,15 @@
                         <li><a href="#">Publish with us</a></li>
                         <li><a href="#">Contact us</a></li>
                     </ul>
-                </div>
+                </div> -->
 
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <ul>
                         <li><a href="#">Disclaimer</a></li>
                         <li><a href="#">Privacy Policy</a></li>
                         <li><a href="#">Terms & Conditions</a></li>
                     </ul>
-                </div>
+                </div> -->
 
                 <div class="col-md-3 footer-text">
                     <ul>Connect on
@@ -42,7 +42,7 @@
 
                 </div>
 
-                <div class="col-md-12">
+                <!-- <div class="col-md-12">
                     <div class="row icon-container">
                         <div class="footer-social-media-icons-container">
                             <i class="fa fa-facebook-square footer-social-icons" aria-hidden="false"></i>
@@ -51,14 +51,15 @@
                             <i class="fa fa-instagram footer-social-icons" aria-hidden="false"></i>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
     <div class="container">
         <div class="col-md-12">
             <div class="d-flex justify-content-center align-items-center development">
-                <p>&#169; 2021, All Rights Reserved. Designed & Developed by<span> GizmmoAlchemy</span></p>
+                <p>&#169; 2021, All Rights Reserved. Designed & Developed by<span><a href="https://gizmmoalchemy.com"
+                            target="blank"> GizmmoAlchemy</a></span></p>
             </div>
         </div>
     </div>
